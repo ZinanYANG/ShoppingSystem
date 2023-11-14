@@ -94,7 +94,33 @@ Exiting the Application:
   
 </ol>
 
+<p>Developed unit tests for critical components, such as the shopping cart, product catalog, and order processing.</p>
+
+
+
 <p> <strong>ExampleUsage</strong> ia attached in the source file</p>
 
+ <h3>AuthenticatorTest</h3>
+    <p>Tests the <code>Authenticator</code> class to ensure that the user login process works as expected. It covers successful login, failed login due to incorrect password, and the logout process.</p>
 
+    <h3>BookTest</h3>
+    <p>Validates the <code>Book</code> class functionality, including the constructor, getters, setters, and <code>toString</code> method. Ensures that the Book properties are correctly managed and represented.</p>
+
+    <h3>CartBuilderTest</h3>
+    <p>Ensures that the <code>CartBuilder</code> class functions correctly by testing product addition and removal from the cart. Also includes tests for handling exceptions when trying to add or remove non-existent products.</p>
+
+    <h3>CartTest</h3>
+    <p>Focuses on the <code>Cart</code> class, testing the addition and removal of items, retrieving the total price and quantity of items in the cart, clearing the cart, and getting the list of items.</p>
+
+    <h3>ProductCatalogTest</h3>
+    <p>Verifies the <code>ProductCatalog</code> class, ensuring that products can be added and removed. It also tests retrieval of a single product, handling of attempts to remove non-existent products, and the retrieval of all products in the catalog.</p>
+
+    <h3>ProductFactoryTest</h3>
+    <p>Tests the <code>ProductFactory</code> class to ensure that it correctly creates <code>Book</code> and <code>Speaker</code> objects. It includes negative tests for invalid inputs, such as null values, empty strings, and negative prices.</p>
+
+    <h3>SpeakerTest</h3>
+    <p>Similar to <code>BookTest</code>, this suite tests the <code>Speaker</code> class for proper functionality of its constructor, getters, setters, and <code>toString</code> method.</p>
+
+    <h3>UserTest</h3>
+    <p>Tests the <code>User</code> class to ensure that the user's username and password are handled correctly. It also tests password verification and the retrieval of the user's shopping cart.</p>
 
