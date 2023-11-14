@@ -95,18 +95,13 @@ Exiting the Application:
 </ol>
 
 <p>Developed unit tests for critical components, such as the shopping cart, product catalog, and order processing.</p>
-
-
-
-<p> <strong>ExampleUsage</strong> ia attached in the source file</p>
-
  <h3>AuthenticatorTest</h3>
     <p>Tests the <code>Authenticator</code> class to ensure that the user login process works as expected. It covers successful login, failed login due to incorrect password, and the logout process.</p>
 
     <h3>BookTest</h3>
     <p>Validates the <code>Book</code> class functionality, including the constructor, getters, setters, and <code>toString</code> method. Ensures that the Book properties are correctly managed and represented.</p>
 
-    <h3>CartBuilderTest</h3>
+    <p>CartBuilderTest</p>
     <p>Ensures that the <code>CartBuilder</code> class functions correctly by testing product addition and removal from the cart. Also includes tests for handling exceptions when trying to add or remove non-existent products.</p>
 
     <h3>CartTest</h3>
@@ -123,4 +118,13 @@ Exiting the Application:
 
     <h3>UserTest</h3>
     <p>Tests the <code>User</code> class to ensure that the user's username and password are handled correctly. It also tests password verification and the retrieval of the user's shopping cart.</p>
+
+
+
+    
+
+
+<p> <strong>ExampleUsage</strong> ia attached in the source file</p>
+
+
 
