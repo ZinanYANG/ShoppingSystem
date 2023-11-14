@@ -16,4 +16,11 @@
   <li>Compile the classes using javac or by using an IDE like Eclipse or IntelliJ IDEA.</li>
 </ol>
 
+<p>Running the Application:</p>
+<ol>
+  <li>Start the application by running the MainClass.java class.</li>
+  <li>Follow the on-screen prompts to interact with the system.</li>
+</ol>
+
+
 
