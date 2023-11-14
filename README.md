@@ -83,6 +83,14 @@ Exiting the Application:
   </ul>
   </li>
 
+  <p>Notes:</p>
+
+  <ul>
+    <li>All interactions are currently console-based.</li>
+    <li>Payment processing is simulated and no real transactions will occur.</li>
+    <li>The product catalog is in-memory and will reset upon each application start.</li>
+  </ul>
+
   
 </ol>
 
