@@ -27,9 +27,11 @@
 <ol>
   <li>
     Create a User Account:
-  <li>When prompted, create a username and password.
-</li>
+  <ul>
+    <li>When prompted, create a username and password.</li>
+  </ul>
   </li>
+  
   <li></li>
   <li></li>
   <li></li>
