@@ -8,3 +8,12 @@
   <li>  <strong>Order Confirmation:</strong>The OrderConfirmation class finalizes the shopping cart and processes payment, providing feedback on the transaction outcome.</li>
   
 </ul>
+
+<p>Setup and Compilation:</p>
+<ol>
+  <li>Make sure you have Java installed on your system.</li>
+  <li>Clone the repository or download the source code.</li>
+  <li>Compile the classes using javac or by using an IDE like Eclipse or IntelliJ IDEA.</li>
+</ol>
+
+
