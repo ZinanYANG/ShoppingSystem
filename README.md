@@ -22,5 +22,21 @@
   <li>Follow the on-screen prompts to interact with the system.</li>
 </ol>
 
+<p>Using the Shopping System:</p>
+
+<ol>
+  <li>
+    Create a User Account:
+  <li>When prompted, create a username and password.
+</li>
+  </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+
 
 
