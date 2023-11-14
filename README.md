@@ -32,12 +32,58 @@
   </ul>
   </li>
   
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>
+    Login:
+
+  <ul>
+    <li>Enter your username and password to log in.</li>
+  </ul>
+  </li>
+
+  <li>
+    Interacting with the Catalog:
+
+  <ul>
+    <li>You can view the catalog and select products to add to your cart.</li>
+  </ul>
+  </li>
+
+  <li>
+Managing the Cart:
+  <ul>
+    <li>Choose to add or remove products from your cart.</li>
+    <li>You can view the contents of your cart at any time.</li>
+  </ul>
+  </li>
+
+  <li>
+Finalizing Your Order:
+
+  <ul>
+    <li>Once you have finished shopping, choose to finalize your cart.</li>
+    <li>Confirm your order and proceed to the mock payment process.</li>
+  </ul>
+  </li>
+
+  <li>
+    Payment:
+  <ul>
+    <li>The system will simulate a payment process.</li>
+    <li>If the mock payment is successful, your order will be confirmed and the cart will be cleared.</li>
+    <li>If the payment fails, you will be prompted to try again.</li>
+  </ul>
+  </li>
+
+  <li>
+Exiting the Application:
+
+  <ul>
+    <li>At any time, you can choose to exit the application.
+</li>
+  </ul>
+  </li>
+
+  
 </ol>
 
 
