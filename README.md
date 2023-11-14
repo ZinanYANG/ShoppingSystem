@@ -99,9 +99,13 @@ Exiting the Application:
 <p>AuthenticatorTest</p>
 <p>Tests the <code>Authenticator</code> class to ensure that the user login process works as expected. It covers successful login, failed login due to incorrect password, and the logout process.</p>
 <p>BookTest</p>
+<p>Validates the <code>Book</code> class functionality, including the constructor, getters, setters, and <code>toString</code> method. Ensures that the Book properties are correctly managed and represented.</p>
 
+<p>CartBuilderTest</p>
+<p>Ensures that the <code>CartBuilder</code> class functions correctly by testing product addition and removal from the cart. Also includes tests for handling exceptions when trying to add or remove non-existent products.</p>
 
-
+<p>CartTest</p>
+<p>Focuses on the <code>Cart</code> class, testing the addition and removal of items, retrieving the total price and quantity of items in the cart, clearing the cart, and getting the list of items.</p>
 
 
 
