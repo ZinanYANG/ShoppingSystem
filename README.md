@@ -97,12 +97,6 @@ Exiting the Application:
 <p>Developed unit tests for critical components, such as the shopping cart, product catalog, and order processing.</p>
 <p>AuthenticatorTest</p>
 <p>Tests the <code>Authenticator</code> class to ensure that the user login process works as expected. It covers successful login, failed login due to incorrect password, and the logout process.</p>
-
-
-
-    
-
-
 <p> <strong>ExampleUsage</strong> ia attached in the source file</p>
 
 
